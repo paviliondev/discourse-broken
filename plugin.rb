@@ -1,6 +1,7 @@
 # name: discourse-broken
 # about: An intentionally broken plugin
-# version: 0.2
+# version: 0.3
+# contact emails: robert@thepavilion.io
 # authors: Angus McLeod
 # url: https://github.com/angusmcleod/discourse-broken
 
